@@ -25,8 +25,8 @@ Jest: For testing.
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/sports-complex-management.git
-cd sports-complex-management
+git clone https://github.com/sho-ocker/valere-margins-task.git
+cd valere-margins-task
 ```
 Install dependencies:
 ```
